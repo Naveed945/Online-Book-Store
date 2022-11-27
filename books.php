@@ -1,5 +1,6 @@
 <?php include_once 'server/adminheader.php'; ?>
 <!--Book page has been updated-->
+<!--add new book to books page-->
 <div class="layout-px-spacing">
 	<div class="row layout-top-spacing">
 
