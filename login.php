@@ -5,7 +5,7 @@ if(isset($_SESSION['user'])){
   header('location:index.php');
 }
 ?>
-
+<!--login page has been updated-->
 
 <!doctype html>
 <html class="no-js" lang="zxx">
