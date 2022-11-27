@@ -5,7 +5,7 @@ $selectbookbyid=$controller->select_bookbyid($bookid);
 <div class="layout-px-spacing">
 	<h1>Edit Book</h1>
 	<div class="row layout-top-spacing">
-
+<!-- we can edit books page here-->
 
 		<div class="col-md-8 mx-auto bg-white col-10  layout-spacing mt-5" style="border-radius: 5px;">
 
