@@ -5,7 +5,7 @@ if(isset($_SESSION['user'])){
   header('location:index.php');
 }
 ?>
-
+<!--register added some options-->
 <!doctype html>
 <html class="no-js" lang="zxx">
 
