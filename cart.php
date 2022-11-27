@@ -3,6 +3,7 @@ include_once 'server/userheader.php';
 
 $grand_total=0;
 ?>
+<!--total books to the cart-->
 <!-- SHOPING CART AREA START -->
 <div class="liton__shoping-cart-area mb-120">
 	<div class="container mt-5">
