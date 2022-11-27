@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+<!--index page has been updated-->
 require_once 'server/controller.php';
 
 $controller=new controller();
