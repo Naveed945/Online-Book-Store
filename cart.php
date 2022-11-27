@@ -49,14 +49,14 @@ $grand_total=0;
 									<td>Vat</td>
 									<td>$00.00</td>
 								</tr>
-								<!-- <tr>
+								<tr>
 									<td><strong>Order Total</strong></td>
 									<td><strong>$<?= $grand_total+15.00 ?></strong></td>
 								</tr>
 							</tbody>
 						</table>
 						<div class="btn-wrapper text-right">
-							<a href="checkout.php" class="theme-btn-1 btn btn-effect-1">Proceed to checkout</a> -->
+							<a href="checkout.php" class="theme-btn-1 btn btn-effect-1">Proceed to checkout</a>
 						</div>
 					</div>
 				</div>
