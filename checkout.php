@@ -4,6 +4,7 @@ $grand_total=0;
 $allitems=0;
 $items=array();
 ?>
+<!--select payment method-->
 <!--CHECKOUT-->
 <div class="ltn__checkout-area mb-105">
 	<div class="container">
