@@ -1,5 +1,5 @@
 <?php
-
+<!--your payment has some errors-->
 function fetch_data(){
 $output='';
 $connect=mysqli_connect("localhost","root","","book");
