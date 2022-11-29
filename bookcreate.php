@@ -1,5 +1,6 @@
 <?php include_once 'server/adminheader.php'; ?>
 <div class="layout-px-spacing">
+	<!--	Added Book Details-->
 	<h1>Create Book</h1>
 	<div class="row layout-top-spacing">
 
