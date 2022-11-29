@@ -5,6 +5,7 @@
 
 
 		<div class="col-xl-12 col-lg-12 col-sm-12  layout-spacing">
+			<!--	Details of the order-->
 			<h1><span>Orders Table</span> </h1>
 			<div class="widget-content widget-content-area br-6">
 				<table id="default-ordering" class="table table-hover" style="width:100%">
